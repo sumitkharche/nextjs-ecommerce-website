@@ -1,10 +1,10 @@
-# Cosmic JS & Next JS E-commerce website
+# Cosmic JS & Next JS E-commerce Store
 
-![nextjs-ecommerce-website](public/e-commerce-website-1.png "The index page of the e-commerce website")
+![nextjs-ecommerce-website](public/e-commerce-website.png "The index page of the e-commerce store")
 
-![nextjs-ecommerce-website](public/e-commerce-website-2.png "The cart window of the e-commerce website")
+![nextjs-ecommerce-website](public/e-commerce-website-2.png "The cart window of the e-commerce store")
 
-> This repo contains an example e-commerce website that is built with [Next.JS](https://nextjs.org/), [Cosmic JS](https://www.cosmicjs.com) and [Snipcart](https://snipcart.com/).
+> This repo contains an example e-commerce store that is built with [Next.JS](https://nextjs.org/), [Cosmic JS](https://www.cosmicjs.com) and [Snipcart](https://snipcart.com/).
 
 ### [View Demo](https://nextjs-ecommerce-website.netlify.com/)
 
