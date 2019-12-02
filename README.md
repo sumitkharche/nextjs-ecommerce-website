@@ -1,4 +1,4 @@
-# Cosmic JS & Next JS E-commerce Store
+# Cosmic JS & Snipcart E-commerce Store
 
 ![nextjs-ecommerce-website](public/e-commerce-website.png "The index page of the e-commerce store")
 
