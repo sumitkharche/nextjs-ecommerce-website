@@ -19,6 +19,10 @@ git clone https://github.com/sumitkharche/nextjs-ecommerce-website.git
 cd nextjs-ecommerce-website
 npm install or yarn install
 ```
+### Keys
+In config.js file,
+- update your Cosmic JS bucket slug and read key.
+- update your Snipcart api key.
 
 ### Run
 ``` bash
